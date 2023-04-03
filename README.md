@@ -1,0 +1,6 @@
+# WarehouseManagementApp![image](https://user-images.githubusercontent.com/48656183/229489277-3e93a528-8c47-4d11-881b-b8bab75d57c3.png)
+![image](https://user-images.githubusercontent.com/48656183/229489332-55231dff-5846-4b13-ae73-7c1db154a729.png)
+![image](https://user-images.githubusercontent.com/48656183/229489382-82dd4b6d-2aca-4b70-84d0-6148b3b3b4ca.png)
+![image](https://user-images.githubusercontent.com/48656183/229489487-ad30d63f-ddfa-4dbb-a16c-fe9d594e41f8.png)
+![image](https://user-images.githubusercontent.com/48656183/229489609-363cc7aa-b48d-4e21-8b86-4f809f92143c.png)
+![image](https://user-images.githubusercontent.com/48656183/229489703-73623a7a-9812-463f-a758-0aa800ea59cf.png)
